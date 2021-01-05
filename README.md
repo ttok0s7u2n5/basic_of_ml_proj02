@@ -11,4 +11,4 @@ This is a project for KAIST EE488 class 2020 FALL Session.
 #### 2-1. Load content image and style image
 #### 2-2. Compute style loss and content loss
 #### 2-3. Training
-#### 2-4. Try with another style image
+#### 2-4. Try with another style image (using images in Project2 folder)
